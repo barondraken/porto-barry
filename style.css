@@ -87,7 +87,7 @@ header{
     display: flex;
 }
 .skill-item {
-    background: black;
+    background: white;
     padding: 10px;
     border-radius: 8px;
     width: 50%;
