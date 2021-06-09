@@ -16,6 +16,7 @@ header{
     position: fixed;
     width: 100%;
     top: 0;
+    background-image: url("coffee.jpg");
 }
 .wrapper{
     max-width: 1024px;
