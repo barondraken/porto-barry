@@ -50,6 +50,7 @@ header{
 #slider{
     padding: 140px 0;
     background: turquoise;
+    background-image: url(coffee.jpg);
 }
 .slider{
     width: 100%;
