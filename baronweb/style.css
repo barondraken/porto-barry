@@ -22,14 +22,15 @@ form {
     margin:50px auto;
 }
 .search {
-    padding:8px 8px;
+    padding:8px 0px;
     background:rgba(50, 50, 50, 0.2);
     border:0px solid #dbdbdb;
+    border-radius: 20px;
 }
 .button {
     position:relative;
     padding:6px 15px;
-    left:-8px;
+    left:0px;
     border:2px solid #53bd84;
     background-color:#53bd84;
     color:#fafafa;
